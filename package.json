@@ -1,0 +1,16 @@
+{
+  "name": "tddlab",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest --watchAll --verbose"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.0.6"
+  },
+  "devDependencies": {},
+  "description": ""
+}
